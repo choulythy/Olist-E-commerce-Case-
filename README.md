@@ -34,9 +34,6 @@ The dataset integrates order, customer, review, seller, and logistics informatio
 ## 🚚 Business Question 2:  
 **What are the top 5 states reporting late deliveries and how do they correlate with average item prices?**
 
-**Visualization:**  
-[Delivery Delays vs. Pricing – Tableau Dashboard](https://public.tableau.com/shared/8F35QJNHD)
-
 ### 🔍 Key Insights:
 - **Longest Delays:** Amazonas (AM), Acre (AC) face significant logistical challenges due to geography.
 - **Shortest Delays:** Bahia (BA), Alagoas (AL) show efficient delivery performance.
@@ -52,9 +49,6 @@ The dataset integrates order, customer, review, seller, and logistics informatio
 
 ## 📦 Business Question 3:  
 **How can Olist optimize delivery logistics by analyzing delivery times and freight costs across different regions in Brazil?**
-
-**Visualization:**  
-[Freight Cost vs. Delivery Time – Tableau Sheet](https://public.tableau.com/views/Olist12-deliverymapping/Sheet5)
 
 ### 🚚 Key Insights:
 - **Efficient Regions:** SP and RJ average 8.3-day delivery times and low freight costs (~R$18.45).
